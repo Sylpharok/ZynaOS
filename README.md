@@ -29,8 +29,8 @@ ZynaOS is a Linux distribution based on Pop!_OS 24.04 LTS, designed for gaming a
 - ZynaOS GNOME (Core / Gaming)
 - ZynaOS Plasma Classic (Core / Gaming)
 - ZynaOS Plasma Mac (Core / Gaming)
-- ZynaOS Lite XFCE (Core / Gaming light)
-- ZynaOS Lite LXQt (Core / Gaming light)
+- ZynaOS Lite XFCE (Core / Light Gaming)
+- ZynaOS Lite LXQt (Core / Light Gaming)
 
 ## Versions
 - 1.0 Spark
