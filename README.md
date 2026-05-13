@@ -1,5 +1,10 @@
 # ZynaOS
 
+![Versión](https://img.shields.io/badge/versión-Alpha_1.2.0-cyan?style=for-the-badge)
+![Base](https://img.shields.io/badge/base-Pop!_OS_24.04-9cf?style=for-the-badge&logo=popos)
+![Licencia](https://img.shields.io/badge/licencia-GPLv3-blue?style=for-the-badge)
+![GitHub Descargas](https://img.shields.io/github/downloads/Sylpharok/ZynaOS/total?style=for-the-badge&logo=github)
+
 ## Español
 
 ZynaOS es una distribución Linux basada en Pop!_OS 24.04 LTS, orientada al gaming y accesible para usuarios nuevos sin limitar a los avanzados.
